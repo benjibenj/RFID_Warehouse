@@ -12,7 +12,7 @@ A simple project aiming at simulating a **RFID enabled warehouse**. A RFID reade
 
 ## Technologies
 
-Arduino : C
+Arduino : C++
 
 Raspberry Pi : Python3, serial module to communicate with the Arduino
 
