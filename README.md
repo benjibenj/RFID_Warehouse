@@ -7,7 +7,7 @@ A simple project aiming at simulating a **RFID enabled warehouse**. A RFID reade
 
 ## Architecture
 
-![Architecture](files/img/SchemeRFID.png)
+![Architecture](files/img/Scheme.png)
 
 
 ## Technologies
